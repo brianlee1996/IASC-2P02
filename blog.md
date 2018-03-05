@@ -16,7 +16,7 @@ Moretti’s claim is that quantitative data is the whole truth, but disclaiming 
 
 Underwood explains as to how the representation of unstructured texts led to a difficult divide from the quantitative social sciences and the humanities. This in part is similar to what Drucker was explaining, that data can be interpreted past the digits, that it is representative through the meanings of what the data is acknowledging.
 
-![](images/voyant.png)
+![](images/voyant.png) 
 
 This visualization from the Voyant tool showcases the trends of the words novel, time, information and interpretation in both Moretti and Drucker’s work. The reasoning behind this visualization was to showcase how often Moretti emphasizes the usage of novel in his work whereas Drucker emphasizes time, information and interpretation. This difference articulates the varying stances that have been discussed, Moretti claimed how statistical data in relation to novels can only be interpreted through the numbers and only the numbers, yet as discussed Moretti’s dissociation with what can be classified as a novel devalues his claim.
   
