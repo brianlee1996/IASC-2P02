@@ -2,7 +2,7 @@
 
 ## About me
 
-My bio goes here
+My name is Brian Lee and this is my github profile, I am currently a second year student at Brock University in the Interactive Arts and Sciences project.
 
 ![](images/raptors.jpg)
 
