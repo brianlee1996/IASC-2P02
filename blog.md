@@ -1,4 +1,4 @@
-# I don't read Latin; a placeholder title
+# What is a novel?
 
 Graphs, Maps, Trees by Franco Moretti calls for a new approach of understanding literary history through the diversion of looking at texts with a different perspective, a perspective that argues to change in which the way reading is done. The main feature of Moretti’s argument is based upon the quantitative data he has provided, which includes the publication of novels at various timepoints in different countries. Moretti takes an interesting stance as to how he utilizes this quantitative data, Moretti explaining that this data is not interpretative, that the important turning points of the publication of novels must be decided on a different basis not related to the statistics. A basis that looks at how social and political factors have an impact on the rise and fall of the publication of novels. Using examples of censorship and war throughout the history of these countries, Moretti uses his graphs to pinpoint the various peaks and valleys as to when novels are being published. 
 
