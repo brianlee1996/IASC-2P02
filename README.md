@@ -8,4 +8,4 @@ My name is Brian Lee and this is my github profile, I am currently a second year
 
 ## Blog Post
 
-First sentence of blog post goes here [continue reading](blog)
+ [What is a novel?](blog)
