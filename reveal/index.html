@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-background="teal">
+					<h2>World of Cats</h2>
+					<p>What's not to love?</p>
+				</section>
+
+				<section>
+					<h2>Types of Cats</h2>
+					<ul>
+						<li>Silly</li>
+						<li>Sleepy</li>
+						<li>Mystical</li>
+						<li>Serial Killer</li>
+					</ul>
+				</section>
+				
+				<section>
+					<h2>Box Cats</h2>
+					<p class="fragments">They</p>
+					<p class="fragments">are</p>
+					<p class="fragments">the</p>
+					<p class="fragments">cat's</p>
+					<p class="fragments">pyjamas</p>
+				</section>
+				
+				<section>
+					<h2>Box Cats</h2>
+					<p><span >They are </span><span class+"fragment">the cat's pyjamas </span></p>
+				</section>
+				
+				<section>
+					<img src="https://assets.wired.com/photos/w_1000/wp-content/uploads/2015/02/catinbox_cokezero_by-michelle-tribe_4x3.jpg">
+					<p>Box cats</p>
+				</section>
+				
+				<section data-background="https://secure.i.telegraph.co.uk/multimedia/archive/03188/maru_the_cat__3188629k.jpg">
+					<h2 style="color: red;">Did I mention box cats</h2>
+				</section>
+				
+				<section>
+					<p>Cats are funny</p>
+					<aside class="notes"> Try not to laugh </aside>
+				</section>
+				
+				<section>
+					<h2>Things cats chase</h2>
+					<ol>
+						<li class="fragments">Lasers</li>
+						<li class="fragments">Strings</li>
+						<li class="fragments">Mice</li>
+					</ol>
+				</section>
+				
+				<section data-markdown>
+					## Cats of the Internet
+					[]http://icanhas.cheezburger.com/
+				</section>
+				
+				<section>
+					<blockquote cite="https://google.ca">Cats make me lol</blockquote>
+				</section>
+				
+				<section data-background="img/cat1.jpg"></section>
+				<section data-background="img/cat2.jpg"></section>
+				<section data-background="img/cat3.jpg"></section>
+				<section data-background="img/cat4.jpg"></section>
+				
+				<section>
+					<h2>Thank you</h2>
+				</section>
+				
+				
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+			
+			// Slide every five seconds
+Reveal.configure({
+  autoSlide: 20000
+});
+		</script>
+	</body>
+</html>
