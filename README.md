@@ -9,3 +9,6 @@ My name is Brian Lee and this is my github profile, I am currently a second year
 ## Blog Post
 
  [What is a novel?](blog)
+ 
+ ## Solo Presentation
+ [click here](https://brianlee1996.github.io/IASC-2P02/reveal/index.html)
