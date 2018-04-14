@@ -22,8 +22,8 @@ The digital humanities project that we researched for our collaborative project 
 
 Here is my 250 word collaboration statement. I approach collaboration in x and ways, which is reflected in y work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/15f6d5539423d1b91035ae42ac1de7812b8cff58#diff-263c9d16322b91363cd286714e70dc9f).
 
-![](images/zotero1.jpg)
-![](images/zotero2.jpg)
+![](images/zotero1.png)
+![](images/zotero2.png)
 
 ## Research Presentation
 
