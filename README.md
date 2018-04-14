@@ -18,15 +18,16 @@ Read [Title goes here](readme)
 
 ## Collaborative Project
 
-Here is my 100 word project description.
+The digital humanities project that we researched for our collaborative project was the tool known as Zotero. Zotero is a tool that aims to turn the average internet user’s browser into a platform that can actively archive anything. Its expected use is for the compiling of sources and references for easy access and referencing across projects. From using this tool, we discovered that it has multimodal purposes, meaning that it can reference and save various types of image, audio and video files. The tool’s main function is to enable the user to research and discover articles then saves the information through Zotero.
 
-Here is my 250 word collaboration statement. I approach collaboration in x and ways, which is reflected in y work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/e9400195485e63762274d8858f496e748e3c01d8#diff-263c9d16322b91363cd286714e70dc9f). I also approach collaboration in a ways, which is reflected in b work (available [here](). I also contributed x assets to my team, seen below.
+Here is my 250 word collaboration statement. I approach collaboration in x and ways, which is reflected in y work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/15f6d5539423d1b91035ae42ac1de7812b8cff58#diff-263c9d16322b91363cd286714e70dc9f).
 
-![](images/.jpg)
+![](images/zotero1.jpg)
+![](images/zotero2.jpg)
 
 ## Research Presentation
 
- [click here](https://brianlee1996.github.io/IASC-2P02/reveal/index.html)
+ [Commodore 64](https://brianlee1996.github.io/IASC-2P02/reveal/index.html)
 
 ## Academic Blog
 
