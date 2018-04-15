@@ -2,11 +2,13 @@
 
 ## Bio
 
+![](images/dh.jpg)
+
 My name is Brian Lee and this is my GitHub portfolio, I am currently a second-year student at Brock University in the Interactive Arts and Sciences program. The research area specific for this portfolio is text analysis, being a possible future research program, I have some interest in text analysis within the digital humanities field. To further this notion, the main feature of this portfolio is a text analysis of Graphs, Maps, Trees by Franco Moretti. Moretti brings forward compelling ideas that need further exploring in the digital humanities, but to understand the arguments that Moretti brings his work must be further analyzed. This analyzation helps to shed a new light but also reinforce the intriguing concept that Moretti brings in which the way text is meant to be interpreted. Another project that furthers my expertise of text analysis is through a collaborative project, where Alvarado’s article The Digital Humanities Situation was utilized to relate the article’s arguments with a research tool known as Zotero. Looking towards the future, text analysis is a specialization that will always be required in a field such as the digital humanities. This is due to how ideas and the workflow within digital humanities need to be analyzed and further reproduced in order to advance the digital humanities.
 
 ## Featured Project: [What is a novel?](blog)
 
-![](images/featured.jpg)
+![](images/featured.png)
 
 Here are 250 words introducing this work.
 
